@@ -1614,13 +1614,13 @@ namespace HS2CharEdit
             return -1;
         }
 
-        // Decoders, should adhere to signature static byte[] Decoder(byte[] src, Configuration config)
+        // Decoders, should adhere to signature static byte[] Decoder(byte[] src)
         static byte[] LZ4Decompress(byte[] src, Configuration config)
         {
-            if (config.AppSettings.Settings["LZ4FastDecompress"].Value == "Yes")
+            //if (config.AppSettings.Settings["LZ4FastDecompress"].Value == "Yes")
                 return LZ4Decompress(src, new HashSet<byte> { 174, 217 });
-            else
-                return LZ4Decompress(src, new HashSet<byte>());
+            //else
+            //    return LZ4Decompress(src, new HashSet<byte>());
         }
         static byte[] LZ4Decompress(byte[] src, HashSet<byte> accelerator)
         {
@@ -1657,8 +1657,8 @@ namespace HS2CharEdit
                 try
                 {
                     byte[] decompressedData = LZ4Codec.Decode(src, pos + 11, compressedSize, originalSize);
-                    var delimiter = src[pos + 11 + compressedSize];
-                    File.AppendAllText("delimiters.log", "Delimiter Found: " + delimiter.ToString());
+                    //var delimiter = src[pos + 11 + compressedSize];
+                    //File.AppendAllText("delimiters.log", "Delimiter Found: " + delimiter.ToString());
                     return decompressedData;
                 }
                 catch { }
