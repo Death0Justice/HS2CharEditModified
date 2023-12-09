@@ -1,0 +1,1469 @@
+﻿[
+  {
+    "ShowName": "整体",
+    "Items": [
+        {
+            "ShowName": "面部整体宽度",
+            "IsShow": 1,
+            "ConfigName": "A_overall_head_width",
+            "DefaultValue": 15.0,
+            "Color": "黄",
+            "SearchIndex": 126,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "面部上部前后",
+            "IsShow": 1,
+            "ConfigName": "B_overall_upper_depth",
+            "DefaultValue": 35.0,
+            "Color": "红",
+            "SearchIndex": 127,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "面部上部上下",
+            "IsShow": 1,
+            "ConfigName": "C_overall_upper_height",
+            "DefaultValue": 33.0,
+            "Color": "蓝",
+            "SearchIndex": 128,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "面部下部前后",
+            "IsShow": 1,
+            "ConfigName": "D_overall_lower_depth",
+            "DefaultValue": 41.0,
+            "Color": "",
+            "SearchIndex": 129,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "面部下部宽度",
+            "IsShow": 1,
+            "ConfigName": "E_overall_lower_width",
+            "DefaultValue": 33.0,
+            "Color": "",
+            "SearchIndex": 130,
+            "ConversionType": 0
+        }
+    ]
+  },
+  {
+    "ShowName": "头",
+    "Items": [
+        {
+            "ShowName": "头部比例X",
+            "IsShow": 0,
+            "ConfigName": "G_head_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 291,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "头部比例Y",
+            "IsShow": 0,
+            "ConfigName": "H_head_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 292,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "头部比例Z",
+            "IsShow": 0,
+            "ConfigName": "I_head_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 293,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "头下部比例X",
+            "IsShow": 0,
+            "ConfigName": "J_head_lower_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 294,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "头下部比例Y",
+            "IsShow": 0,
+            "ConfigName": "K_head_lower_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 295,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "头下部比例Z",
+            "IsShow": 0,
+            "ConfigName": "L_head_lower_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 296,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "头上部比例X",
+            "IsShow": 0,
+            "ConfigName": "M_head_upper_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 297,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "头上部比例Y",
+            "IsShow": 0,
+            "ConfigName": "N_head_upper_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 298,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "头上部比例Z",
+            "IsShow": 0,
+            "ConfigName": "O_head_upper_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 299,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "额头比例X",
+            "IsShow": 0,
+            "ConfigName": "P_head_front_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 300,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "额头比例Y",
+            "IsShow": 0,
+            "ConfigName": "Q_head_front_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 301,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "额头比例Z",
+            "IsShow": 0,
+            "ConfigName": "R_head_front_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 302,
+            "ConversionType": 1
+        },
+        {
+            "ShowName": "下颌宽度",
+            "IsShow": 1,
+            "ConfigName": "B_jaw_width",
+            "DefaultValue": 8.0,
+            "Color": "",
+            "SearchIndex": 131,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "下颌上下",
+            "IsShow": 1,
+            "ConfigName": "C_jaw_height",
+            "DefaultValue": 16.0,
+            "Color": "",
+            "SearchIndex": 132,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "下颌前后",
+            "IsShow": 1,
+            "ConfigName": "D_jaw_depth",
+            "DefaultValue": 48.0,
+            "Color": "",
+            "SearchIndex": 133,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "下颌角度",
+            "IsShow": 1,
+            "ConfigName": "E_jaw_angle",
+            "DefaultValue": 10.0,
+            "Color": "",
+            "SearchIndex": 134,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "下颌下部上下",
+            "IsShow": 1,
+            "ConfigName": "F_jaw_neck_droop",
+            "DefaultValue": 101.0,
+            "Color": "",
+            "SearchIndex": 135,
+            "ConversionType": 0
+        }
+    ]
+  },
+  {
+    "ShowName": "下巴",
+    "Items": [
+        {
+            "ShowName": "下巴宽度",
+            "IsShow": 1,
+            "ConfigName": "G_jaw_chin_size",
+            "DefaultValue": 27.0,
+            "Color": "",
+            "SearchIndex": 136,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "下巴上下",
+            "IsShow": 1,
+            "ConfigName": "H_jaw_chin_height",
+            "DefaultValue": 43.0,
+            "Color": "",
+            "SearchIndex": 137,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "下巴前后",
+            "IsShow": 1,
+            "ConfigName": "I_jaw_chin_depth",
+            "DefaultValue": 50.0,
+            "Color": "",
+            "SearchIndex": 138,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "下颌比例X",
+            "IsShow": 0,
+            "ConfigName": "K_jaw_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 303,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下颌比例Y",
+            "IsShow": 0,
+            "ConfigName": "L_jaw_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 304,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下颌比例Z",
+            "IsShow": 0,
+            "ConfigName": "M_jaw_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 305,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下颌偏移",
+            "IsShow": 0,
+            "ConfigName": "N_jaw_offset",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 306,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下颏比例X",
+            "IsShow": 0,
+            "ConfigName": "O_chin_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 307,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下颏比例Y",
+            "IsShow": 0,
+            "ConfigName": "P_chin_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 308,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下颏比例Z",
+            "IsShow": 0,
+            "ConfigName": "Q_chin_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 309,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "颏尖比例X",
+            "IsShow": 0,
+            "ConfigName": "R_chin_tip_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 310,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "颏尖比例Y",
+            "IsShow": 0,
+            "ConfigName": "S_chin_tip_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 311,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "颏尖比例Z",
+            "IsShow": 0,
+            "ConfigName": "T_chin_tip_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 312,
+            "ConversionType": 3
+        }
+    ]
+  },
+  {
+    "ShowName": "脸颊",
+    "Items": [
+        {
+            "ShowName": "脸颊下部上下",
+            "IsShow": 1,
+            "ConfigName": "V_cheeks_lower_height",
+            "DefaultValue": 54.0,
+            "Color": "",
+            "SearchIndex": 148,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "脸颊下部前后",
+            "IsShow": 1,
+            "ConfigName": "W_cheeks_lower_depth",
+            "DefaultValue": 33.0,
+            "Color": "",
+            "SearchIndex": 149,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "脸颊下部宽度",
+            "IsShow": 1,
+            "ConfigName": "X_cheeks_lower_width",
+            "DefaultValue": 23.0,
+            "Color": "",
+            "SearchIndex": 150,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "脸颊上部上下",
+            "IsShow": 1,
+            "ConfigName": "Y_cheeks_upper_height",
+            "DefaultValue": 40.0,
+            "Color": "",
+            "SearchIndex": 151,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "脸颊上部前后",
+            "IsShow": 1,
+            "ConfigName": "Z0_cheeks_upper_depth",
+            "DefaultValue": 42.0,
+            "Color": "",
+            "SearchIndex": 152,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "脸颊上部宽度",
+            "IsShow": 1,
+            "ConfigName": "Z1_cheeks_upper_width",
+            "DefaultValue": 29.0,
+            "Color": "",
+            "SearchIndex": 153,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "脸颊上部比例X",
+            "IsShow": 0,
+            "ConfigName": "Z3_upper_cheeks_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 313,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "脸颊上部比例Y",
+            "IsShow": 0,
+            "ConfigName": "Z4_upper_cheeks_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 314,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "脸颊上部比例Z",
+            "IsShow": 0,
+            "ConfigName": "Z5_upper_cheeks_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 315,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "脸颊下部比例X",
+            "IsShow": 0,
+            "ConfigName": "Z6_lower_cheeks_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 319,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "脸颊下部比例Y",
+            "IsShow": 0,
+            "ConfigName": "Z7_lower_cheeks_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 320,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "脸颊下部比例Z",
+            "IsShow": 0,
+            "ConfigName": "Z8_lower_cheeks_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 321,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "脸颊偏移",
+            "IsShow": 0,
+            "ConfigName": "Z9_cheek_offset",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 322,
+            "ConversionType": 3
+        }
+    ]
+  },
+  {
+
+    "ShowName": "眉",
+    "Items": [
+        {
+            "ShowName": "眉毛宽度",
+            "IsShow": 1,
+            "ConfigName": "B_Brow_width",
+            "DefaultValue": 63.0,
+            "Color": "",
+            "SearchIndex": 156,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眉毛高度",
+            "IsShow": 1,
+            "ConfigName": "C_Brow_height",
+            "DefaultValue": 56.0,
+            "Color": "",
+            "SearchIndex": 157,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眉毛位置X",
+            "IsShow": 1,
+            "ConfigName": "D_Brow_PositionX",
+            "DefaultValue": 51.0,
+            "Color": "",
+            "SearchIndex": 154,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眉毛位置Y",
+            "IsShow": 1,
+            "ConfigName": "E_Brow_PositionY",
+            "DefaultValue": 19.0,
+            "Color": "",
+            "SearchIndex": 155,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眉毛倾斜",
+            "IsShow": 1,
+            "ConfigName": "F_Brow_rotate",
+            "DefaultValue": 53.0,
+            "Color": "",
+            "SearchIndex": 158,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眉毛比例X",
+            "IsShow": 0,
+            "ConfigName": "J_brow_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 327,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "眉毛比例Y",
+            "IsShow": 0,
+            "ConfigName": "K_brow_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 328,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "眉毛比例Z",
+            "IsShow": 0,
+            "ConfigName": "L_brow_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 329,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "内眉比例X",
+            "IsShow": 0,
+            "ConfigName": "M_inner_brow_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 333,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "内眉比例Y",
+            "IsShow": 0,
+            "ConfigName": "N_inner_brow_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 334,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "内眉比例Z",
+            "IsShow": 0,
+            "ConfigName": "O_inner_brow_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 335,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "外眉比例X",
+            "IsShow": 0,
+            "ConfigName": "P_outer_brow_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 339,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "外眉比例Y",
+            "IsShow": 0,
+            "ConfigName": "Q_outer_brow_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 340,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "外眉比例Z",
+            "IsShow": 0,
+            "ConfigName": "R_outer_brow_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 341,
+            "ConversionType": 3
+        }
+    ]
+  },
+  {
+    "ShowName": "眼",
+    "Items": [
+        {
+            "ShowName": "眼睛纵向宽度",
+            "IsShow": 1,
+            "ConfigName": "A_eye_vertical",
+            "DefaultValue": 48.0,
+            "Color": "",
+            "SearchIndex": 159,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睛横向位置",
+            "IsShow": 1,
+            "ConfigName": "B_eye_spacing",
+            "DefaultValue": 45.0,
+            "Color": "",
+            "SearchIndex": 160,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睛前后",
+            "IsShow": 1,
+            "ConfigName": "C_eye_depth",
+            "DefaultValue": 39.0,
+            "Color": "",
+            "SearchIndex": 161,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睛横向宽度",
+            "IsShow": 1,
+            "ConfigName": "D_eye_width",
+            "DefaultValue": 33.0,
+            "Color": "",
+            "SearchIndex": 162,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睛上下",
+            "IsShow": 1,
+            "ConfigName": "E_eye_height",
+            "DefaultValue": 48.0,
+            "Color": "",
+            "SearchIndex": 163,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睛角度Z轴",
+            "IsShow": 1,
+            "ConfigName": "F_eye_angle_Z",
+            "DefaultValue": 47.0,
+            "Color": "",
+            "SearchIndex": 164,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睛角度Y轴",
+            "IsShow": 1,
+            "ConfigName": "G_eye_angle_Y",
+            "DefaultValue": 50.0,
+            "Color": "",
+            "SearchIndex": 165,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "内眼角左右位置",
+            "IsShow": 1,
+            "ConfigName": "H_eye_inner_dist",
+            "DefaultValue": 31.0,
+            "Color": "",
+            "SearchIndex": 166,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "外眼角左右位置",
+            "IsShow": 1,
+            "ConfigName": "I_eye_outer_dist",
+            "DefaultValue": 37.0,
+            "Color": "",
+            "SearchIndex": 167,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "内眼角上下位置",
+            "IsShow": 1,
+            "ConfigName": "J_eye_inner_height",
+            "DefaultValue": 47.0,
+            "Color": "",
+            "SearchIndex": 168,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "外眼角上下位置",
+            "IsShow": 1,
+            "ConfigName": "K_eye_outer_height",
+            "DefaultValue": 47.0,
+            "Color": "",
+            "SearchIndex": 169,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睑形状1",
+            "IsShow": 1,
+            "ConfigName": "L_eye_lid_shape_1",
+            "DefaultValue": 49.0,
+            "Color": "",
+            "SearchIndex": 170,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睑形状2",
+            "IsShow": 1,
+            "ConfigName": "M_eye_lid_shape_2",
+            "DefaultValue": 47.0,
+            "Color": "",
+            "SearchIndex": 171,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睛睁开最大值",
+            "IsShow": 0,
+            "ConfigName": "N_eye_open_max",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 172,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "眼睛比例X",
+            "IsShow": 0,
+            "ConfigName": "P_eye_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 345,
+            "ConversionType": 2
+        },
+        {
+            "ShowName": "眼睛比例Y",
+            "IsShow": 0,
+            "ConfigName": "Q_eye_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 346,
+            "ConversionType": 2
+        },
+        {
+            "ShowName": "眼睛比例Z",
+            "IsShow": 0,
+            "ConfigName": "R_eye_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 347,
+            "ConversionType": 2
+        }
+    ]
+  },
+  {
+    "ShowName": "鼻子",
+    "Items": [
+        {
+            "ShowName": "鼻子整体上下",
+            "IsShow": 1,
+            "ConfigName": "B_nose_height",
+            "DefaultValue": 24.0,
+            "Color": "",
+            "SearchIndex": 173,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻子整体前后",
+            "IsShow": 1,
+            "ConfigName": "C_nose_depth",
+            "DefaultValue": 49.0,
+            "Color": "",
+            "SearchIndex": 174,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻子整体角度X轴",
+            "IsShow": 1,
+            "ConfigName": "D_nose_angle",
+            "DefaultValue": 64.0,
+            "Color": "",
+            "SearchIndex": 175,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻子整体宽度",
+            "IsShow": 1,
+            "ConfigName": "E_nose_size",
+            "DefaultValue": 42.0,
+            "Color": "",
+            "SearchIndex": 176,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻梁高度",
+            "IsShow": 1,
+            "ConfigName": "F_bridge_height",
+            "DefaultValue": 26.0,
+            "Color": "",
+            "SearchIndex": 177,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻梁宽度",
+            "IsShow": 1,
+            "ConfigName": "G_bridge_width",
+            "DefaultValue": 40.0,
+            "Color": "",
+            "SearchIndex": 178,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻梁形状",
+            "IsShow": 1,
+            "ConfigName": "H_bridge_shape",
+            "DefaultValue": 52.0,
+            "Color": "",
+            "SearchIndex": 179,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻翼宽度",
+            "IsShow": 1,
+            "ConfigName": "I_nostril_width",
+            "DefaultValue": 45.0,
+            "Color": "",
+            "SearchIndex": 180,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻翼上下",
+            "IsShow": 1,
+            "ConfigName": "J_nostril_height",
+            "DefaultValue": 40.0,
+            "Color": "",
+            "SearchIndex": 181,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻翼前后",
+            "IsShow": 1,
+            "ConfigName": "K_nostril_length",
+            "DefaultValue": 26.0,
+            "Color": "",
+            "SearchIndex": 182,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻翼角度X轴",
+            "IsShow": 1,
+            "ConfigName": "L_nostril_inner_width",
+            "DefaultValue": 63.0,
+            "Color": "",
+            "SearchIndex": 183,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻翼角度Z轴",
+            "IsShow": 1,
+            "ConfigName": "M_nostril_outer_width",
+            "DefaultValue": 41.0,
+            "Color": "",
+            "SearchIndex": 184,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻尖高度",
+            "IsShow": 1,
+            "ConfigName": "N_nose_tip_length",
+            "DefaultValue": 64.0,
+            "Color": "",
+            "SearchIndex": 185,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻尖角度X轴",
+            "IsShow": 1,
+            "ConfigName": "O_nose_tip_height",
+            "DefaultValue": 39.0,
+            "Color": "",
+            "SearchIndex": 186,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻尖大小",
+            "IsShow": 1,
+            "ConfigName": "P_nose_tip_size",
+            "DefaultValue": 42.0,
+            "Color": "",
+            "SearchIndex": 187,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "鼻子和鼻梁比例X",
+            "IsShow": 0,
+            "ConfigName": "R_nose_and_bridge_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 351,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻子和鼻梁比例Y",
+            "IsShow": 0,
+            "ConfigName": "S_nose_and_bridge_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 352,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻子和鼻梁比例Z",
+            "IsShow": 0,
+            "ConfigName": "T_nose_and_bridge_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 353,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻子比例X",
+            "IsShow": 0,
+            "ConfigName": "U_nose_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 354,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻子比例Y",
+            "IsShow": 0,
+            "ConfigName": "V_nose_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 355,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻子比例Z",
+            "IsShow": 0,
+            "ConfigName": "W_nose_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 356,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻尖比例X",
+            "IsShow": 0,
+            "ConfigName": "X_nose_tip_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 357,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻尖比例Y",
+            "IsShow": 0,
+            "ConfigName": "Y_nose_tip_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 358,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻尖比例Z",
+            "IsShow": 0,
+            "ConfigName": "Z1_nose_tip_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 359,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻尖偏移",
+            "IsShow": 0,
+            "ConfigName": "Z2_nose_tip_offset",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 360,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻根比例X",
+            "IsShow": 0,
+            "ConfigName": "Z3_nose_bridge_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 361,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻根比例Y",
+            "IsShow": 0,
+            "ConfigName": "Z4_nose_bridge_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 362,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "鼻根比例Z",
+            "IsShow": 0,
+            "ConfigName": "Z5_nose_bridge_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 363,
+            "ConversionType": 3
+        }
+    ]
+  },
+  {
+    "ShowName": "嘴",
+    "Items": [
+        {
+            "ShowName": "嘴上下",
+            "IsShow": 1,
+            "ConfigName": "B_mouth_height",
+            "DefaultValue": 30.0,
+            "Color": "",
+            "SearchIndex": 188,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "嘴横向宽度",
+            "IsShow": 1,
+            "ConfigName": "C_mouth_width",
+            "DefaultValue": 48.0,
+            "Color": "",
+            "SearchIndex": 189,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "嘴纵向宽度",
+            "IsShow": 1,
+            "ConfigName": "D_mouth_lip_thickness",
+            "DefaultValue": 52.0,
+            "Color": "",
+            "SearchIndex": 190,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "嘴前后位置",
+            "IsShow": 1,
+            "ConfigName": "E_mouth_depth",
+            "DefaultValue": 32.0,
+            "Color": "",
+            "SearchIndex": 191,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "嘴形状上",
+            "IsShow": 1,
+            "ConfigName": "F_mouth_upper_lip_thickness",
+            "DefaultValue": 37.0,
+            "Color": "",
+            "SearchIndex": 192,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "嘴形状下",
+            "IsShow": 1,
+            "ConfigName": "G_mouth_lower_lip_thickness",
+            "DefaultValue": 63.0,
+            "Color": "",
+            "SearchIndex": 193,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "嘴形状下嘴角",
+            "IsShow": 1,
+            "ConfigName": "H_mouth_corner_shape",
+            "DefaultValue": 2.0,
+            "Color": "",
+            "SearchIndex": 194,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "嘴部比例X",
+            "IsShow": 0,
+            "ConfigName": "I1_mouth_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 364,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "嘴部比例Y",
+            "IsShow": 0,
+            "ConfigName": "J_mouth_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 365,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "嘴部比例Z",
+            "IsShow": 0,
+            "ConfigName": "K_mouth_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 366,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "嘴唇比例X",
+            "IsShow": 1,
+            "ConfigName": "L_mouth_lips_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 367,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "嘴唇比例Y",
+            "IsShow": 1,
+            "ConfigName": "M_mouth_lips_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 368,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "嘴唇比例Z",
+            "IsShow": 1,
+            "ConfigName": "N_mouth_lips_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 369,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "嘴角比例X",
+            "IsShow": 0,
+            "ConfigName": "O_mouth_side_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 370,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "嘴角比例Y",
+            "IsShow": 0,
+            "ConfigName": "P_mouth_side_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 371,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "嘴角比例Z",
+            "IsShow": 0,
+            "ConfigName": "Q_mouth_side_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 372,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上唇比例X",
+            "IsShow": 0,
+            "ConfigName": "R_mouth_upper_lips_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 376,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上唇比例Y",
+            "IsShow": 0,
+            "ConfigName": "S_mouth_upper_lips_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 377,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上唇比例Z",
+            "IsShow": 0,
+            "ConfigName": "T_mouth_upper_lips_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 378,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下唇比例X",
+            "IsShow": 0,
+            "ConfigName": "U_mouth_lower_lips_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 379,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下唇比例Y",
+            "IsShow": 0,
+            "ConfigName": "V_mouth_lower_lips_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 380,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下唇比例Z",
+            "IsShow": 0,
+            "ConfigName": "W_mouth_lower_lips_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 381,
+            "ConversionType": 3
+        }
+    ]
+  },
+  {
+    "ShowName": "耳",
+    "Items": [
+        {
+            "ShowName": "耳朵大小",
+            "IsShow": 1,
+            "ConfigName": "B_ears_size",
+            "DefaultValue": 31.0,
+            "Color": "",
+            "SearchIndex": 195,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "耳朵角度Y轴",
+            "IsShow": 1,
+            "ConfigName": "C_ears_angle",
+            "DefaultValue": 51.0,
+            "Color": "",
+            "SearchIndex": 196,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "耳朵角度Z轴",
+            "IsShow": 1,
+            "ConfigName": "D_ears_rotation",
+            "DefaultValue": 53.0,
+            "Color": "",
+            "SearchIndex": 197,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "耳朵上部形状",
+            "IsShow": 1,
+            "ConfigName": "E_ears_up_shape",
+            "DefaultValue": 36.0,
+            "Color": "",
+            "SearchIndex": 198,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "耳朵下部形状",
+            "IsShow": 1,
+            "ConfigName": "F_ears_low_shape",
+            "DefaultValue": 28.0,
+            "Color": "",
+            "SearchIndex": 199,
+            "ConversionType": 0
+        },
+        {
+            "ShowName": "耳朵比例X",
+            "IsShow": 0,
+            "ConfigName": "H_ears_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 382,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "耳朵比例Y",
+            "IsShow": 0,
+            "ConfigName": "I_ears_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 383,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "耳朵比例Z",
+            "IsShow": 0,
+            "ConfigName": "J_ears_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 384,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上耳比例X",
+            "IsShow": 0,
+            "ConfigName": "K_upper_ears_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 388,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上耳比例Y",
+            "IsShow": 0,
+            "ConfigName": "L_upper_ears_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 389,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上耳比例Z",
+            "IsShow": 0,
+            "ConfigName": "M_upper_ears_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 390,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下耳比例X",
+            "IsShow": 0,
+            "ConfigName": "N_lower_ears_scale_X",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 394,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下耳比例Y",
+            "IsShow": 0,
+            "ConfigName": "O_lower_ears_scale_Y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 395,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下耳比例Z",
+            "IsShow": 0,
+            "ConfigName": "P_lower_ears_scale_Z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 396,
+            "ConversionType": 3
+        }
+    ]
+  },
+  {
+    "ShowName": "睫毛",
+    "Items": [
+        {
+            "ShowName": "内睫毛比例X",
+            "IsShow": 0,
+            "ConfigName": "A01_inner_eyelashes_scale_x",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 400,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "内睫毛比例Y",
+            "IsShow": 0,
+            "ConfigName": "A02_inner_eyelashes_scale_y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 401,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "内睫毛比例Z",
+            "IsShow": 0,
+            "ConfigName": "A03_inner_eyelashes_scale_z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 402,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上睫毛比例X",
+            "IsShow": 0,
+            "ConfigName": "A04_upper_eyelashes_scale_x",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 406,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上睫毛比例Y",
+            "IsShow": 0,
+            "ConfigName": "A05_upper_eyelashes_scale_y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 407,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "上睫毛比例Z",
+            "IsShow": 0,
+            "ConfigName": "A06_upper_eyelashes_scale_z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 408,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "外睫毛比例X",
+            "IsShow": 0,
+            "ConfigName": "A07_outer_eyelashes_scale_x",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 412,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "外睫毛比例Y",
+            "IsShow": 0,
+            "ConfigName": "A08_outer_eyelashes_scale_y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 413,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "外睫毛比例Z",
+            "IsShow": 0,
+            "ConfigName": "A091_outer_eyelashes_scale_z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 414,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下睫毛比例X",
+            "IsShow": 0,
+            "ConfigName": "A092_lower_eyelashes_scale_x",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 418,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下睫毛比例Y",
+            "IsShow": 0,
+            "ConfigName": "A093_lower_eyelashes_scale_y",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 419,
+            "ConversionType": 3
+        },
+        {
+            "ShowName": "下睫毛比例Z",
+            "IsShow": 0,
+            "ConfigName": "A094_lower_eyelashes_scale_z",
+            "DefaultValue": 100.0,
+            "Color": "",
+            "SearchIndex": 420,
+            "ConversionType": 3
+        }
+    ]
+  },
+  {
+    "ShowName": "其他",
+    "Items": [
+      {
+        "ShowName": "A94_pupil",
+        "IsShow": 0,
+        "ConfigName": "A94_pupil",
+        "DefaultValue": 0.0,
+        "Color": "",
+        "ConversionType": -1
+      },
+      {
+        "ShowName": "N_eye_open_max",
+        "IsShow": 0,
+        "ConfigName": "N_eye_open_max",
+        "DefaultValue": 0.0,
+        "Color": "",
+        "ConversionType": -1
+      }
+    ]
+  }
+]

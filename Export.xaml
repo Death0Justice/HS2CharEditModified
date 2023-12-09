@@ -1,0 +1,30 @@
+﻿<Window x:Class="HS2CharEdit.Export"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HS2CharEdit"
+        mc:Ignorable="d"
+        Title="Export" Width="410" MinHeight="100" MaxHeight="450" SizeToContent="Height">
+    <StackPanel MaxHeight="440">
+        <Label x:Name="undefinedSliders" Content="待定滑块" Margin="5,5,5,5"/>
+        <Border x:Name="undefinedContainer" BorderBrush="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}" BorderThickness="1" Margin="5,0,5,0">
+            <DataGrid x:Name="undefined" HeadersVisibility="None" AutoGenerateColumns="False" GridLinesVisibility="None" ItemsSource="{Binding originalUndefined}" CanUserAddRows="False" MaxHeight="304">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Key Name" Binding="{Binding ShowName}" Width="*" />
+                    <DataGridTemplateColumn Header="Default Value" Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBox Text="{Binding DefaultValue, UpdateSourceTrigger=PropertyChanged}"  BorderThickness="1" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+        <CheckBox x:Name="dismiss" Content="导出时不再弹出该窗口" Height="25" MinWidth="60" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Grid Width="400" Margin="0,0,0,10">
+            <Button Content="导出" Height="25" MinWidth="60" MaxWidth="100" Click="OnExportClick" Margin="5,0,5,0"/>
+        </Grid>
+    </StackPanel>
+</Window>

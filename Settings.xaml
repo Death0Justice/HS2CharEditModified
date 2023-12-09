@@ -1,0 +1,28 @@
+﻿<Window x:Class="HS2CharEdit.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HS2CharEdit"
+        mc:Ignorable="d"
+        Title="设置" Height="400" Width="600">
+    <Grid>
+        <ItemsControl x:Name="configurations" ItemsSource="{Binding settings}" Padding="20,20,20,30" UseLayoutRounding="True" Margin="0,0,0,40">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel Orientation="Vertical" ScrollViewer.HorizontalScrollBarVisibility="Auto"/>
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <CheckBox Content="{Binding Text}" IsChecked="{Binding Value, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="0,10,0,0" Width="280"/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="10,10,10,10">
+            <Button x:Name="confirm" Content ="确认" Width="58" Height="20" Margin="10,0,0,0" Click="Confirm"/>
+            <Button x:Name="cancel" Content ="取消" Width="58" Height="20" Margin="10,0,0,0" Click="Cancel"/>
+        </StackPanel>
+    </Grid>
+</Window>

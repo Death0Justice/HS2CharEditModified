@@ -1,0 +1,3644 @@
+{
+   "actor" : {
+      "hairColor" : 526344,
+      "headTexture" : "HS2.esp|011D49",
+      "weight" : 100
+   },
+   "bodyMorphs" : [
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAAID"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Labiaspread"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastTopSlope"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Clavicle_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Breasts"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "CalfFBThicc_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAABase_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BellyFrontDownFat_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsNewSH"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Labiaprotrude2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 5
+            }
+         ],
+         "name" : "XPMSEAARange_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 6
+            }
+         ],
+         "name" : "XPMSEAARange_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_boweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleCrumpled_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 2
+            }
+         ],
+         "name" : "XPMSEAARange_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BackValley_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_1hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Thighs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 1
+            }
+         ],
+         "name" : "XPMSEAARange_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Labiaprotrudeback"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_dageqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "HipUpperWidth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_bowidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_axeeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_bowatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_maceqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "AreolaPull_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LegsThin"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcastmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hmeqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magatk"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_2hweqp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magcon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_magidle"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_magmt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASaveCRC_sprint"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "PushUp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "XPMSE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "XPMSEAASave_shout"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Innieoutie"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LabiaNeat_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LabiaTightUp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Labiapuffyness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LabiaMorePuffyness_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "SlimThighs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Labiaprotrude"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MuscleMoreArms_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LabiaCrumpled_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LabiaBulgogi_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "WideWaistLine"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Vaginasize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "VaginaHole"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Clit"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NavelEven"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BigBelly"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ClitSwell_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Cutepuffyness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "CBPC"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "CrotchGap"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "AnalLoose_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "AnalPosition_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "AnalTexPos_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "AnalTexPosRe_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BigTorso"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BellyUnder_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "7B Lower"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "7B Upper"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "VanillaSSEHi"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "VanillaSSELo"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "OldBaseShape"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsSmall"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsSmall2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Arms"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "DoubleMelon"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastCleavage"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsTogether"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsConverage_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ChubbyWaist"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastGravity2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastHeight"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "RibsMore_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastPerkiness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastWidth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastCenter"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastCenterBig"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleThicc_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastFlatness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleShy_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastFlatness2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsFantasy"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsNewSHSymmetry"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "UNPHip_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsGone"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastSideShape"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastUnderDepth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BreastsPressed_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "AreolaSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleInvert_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleLength"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleSquash1_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleSquash2_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleManga"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NipplePerkiness"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NipplePerkManga"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NipplePuffy_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleDistance"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleDip"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleTip"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleTipManga"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BellySideDownFat_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleTube_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleDown"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BellyFrontUpFat_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleUp"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleCrease_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NippleBump_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "NipBGone"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ChestDepth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ChestWidth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtDimples"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "SternumDepth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "SternumHeight"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "RibsProminance"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Waist"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ChubbyArms"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "WaistHeight"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Back"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BackArch"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BackWing_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Butt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BigButt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtSmall"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MuscleButt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ChubbyButt"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "AppleCheeks"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtUnderFold"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "RoundAss"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtSaggy_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtPressed_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtNarrow_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtClassic"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtShape2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ButtCrack"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Groin"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "CrotchBack"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "7BLeg_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ThighOutsideThicc_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ThighInsideThicc_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ThighFBThicc_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ChubbyLegs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LegShapeClassic"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "LegSpread_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "KneeHeight"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "KneeShape"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "KneeTogether_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "CalfSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "CalfSmooth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "FeetFeminine"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "AnkleSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MuscleAbs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MuscleMoreAbs_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MuscleArms"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MuscleLegs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MuscleMoreLegs_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MusclePecs"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ShoulderSmooth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "MuscleBack_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Hips"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "HipBone"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "HipCarved"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "HipForward"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "HipNarrow_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ForearmSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ArmpitShape_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "WristSize"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ShoulderWidth"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "ShoulderTweak"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "Belly"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "BellySideUpFat_v2"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "TummyTuck"
+      },
+      {
+         "keys" : [
+            {
+               "key" : "RaceMenuMorphsCBBE.esp",
+               "value" : 0
+            }
+         ],
+         "name" : "PregnancyBelly"
+      }
+   ],
+   "faceTextures" : [
+      {
+         "index" : 0,
+         "texture" : "HS2\\Head\\FemaleHead.dds"
+      },
+      {
+         "index" : 1,
+         "texture" : "HS2\\Head\\femalehead_msn.dds"
+      },
+      {
+         "index" : 2,
+         "texture" : "HS2\\Head\\femalehead_sk.dds"
+      },
+      {
+         "index" : 7,
+         "texture" : "HS2\\Head\\femalehead_s.dds"
+      }
+   ],
+   "headParts" : [
+      {
+         "formId" : 1459721254,
+         "formIdentifier" : "HS2.esp|019426",
+         "type" : 0
+      },
+      {
+         "formId" : 1460108542,
+         "formIdentifier" : "HS2.esp|077CFE",
+         "type" : 2
+      },
+      {
+         "formId" : 1460112068,
+         "formIdentifier" : "HS2.esp|078AC4",
+         "type" : 3
+      },
+      {
+         "formId" : 1460115172,
+         "formIdentifier" : "HS2.esp|0796E4",
+         "type" : 4
+      },
+      {
+         "formId" : 1460108967,
+         "formIdentifier" : "HS2.esp|077EA7",
+         "type" : 5
+      },
+      {
+         "formId" : 1460118444,
+         "formIdentifier" : "HS2.esp|07A3AC",
+         "type" : 6
+      },
+      {
+         "formId" : 1460118456,
+         "formIdentifier" : "HS2.esp|07A3B8",
+         "type" : 7
+      },
+      {
+         "formId" : 1460119977,
+         "formIdentifier" : "HS2.esp|07A9A9",
+         "type" : 8
+      },
+      {
+         "formId" : 1460119876,
+         "formIdentifier" : "HS2.esp|07A944",
+         "type" : 9
+      },
+      {
+         "formId" : 1460116260,
+         "formIdentifier" : "HS2.esp|079B24",
+         "type" : 10
+      },
+      {
+         "formId" : 1460118308,
+         "formIdentifier" : "HS2.esp|07A324",
+         "type" : 11
+      },
+      {
+         "formId" : 4261595614,
+         "formIdentifier" : "Holiday Gift Hairdos.esp|02C9DE",
+         "type" : 13
+      },
+      {
+         "formId" : 1459772002,
+         "formIdentifier" : "HS2.esp|025A62",
+         "type" : 17
+      },
+      {
+         "formId" : 1459792422,
+         "formIdentifier" : "HS2.esp|02AA26",
+         "type" : 18
+      },
+      {
+         "formId" : 1460120034,
+         "formIdentifier" : "HS2.esp|07A9E2",
+         "type" : 19
+      },
+      {
+         "formId" : 1460120050,
+         "formIdentifier" : "HS2.esp|07A9F2",
+         "type" : 20
+      },
+      {
+         "formId" : 1459700971,
+         "formIdentifier" : "HS2.esp|0144EB",
+         "type" : 21
+      }
+   ],
+   "modNames" : [ "HS2.esp", "Holiday Gift Hairdos.esp" ],
+   "mods" : [
+      {
+         "index" : 87,
+         "name" : "HS2.esp"
+      }
+   ],
+   "morphs" : {
+      "custom": [**custom**],
+      "default" : {
+         "morphs" : [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3.402823466385289e+38
+         ],
+         "presets" : [ 0, 4294967295, 0, 0 ]
+      },
+      "sculpt" : [
+         {
+            "data" : [
+               [ 94, 361, 142, -6 ],
+               [ 158, 219, 206, -199 ],
+               [ 22, 873, 2268, -1637 ],
+               [ 413, -44, 77, -53 ],
+               [ 86, 425, 179, -78 ],
+               [ 150, 4103, 2221, -1575 ],
+               [ 97, 4642, 2457, -1040 ],
+               [ 154, 1764, 710, -535 ],
+               [ 26, 845, 2259, -1626 ],
+               [ 162, 3261, 1163, -705 ],
+               [ 98, 4894, 3559, -950 ],
+               [ 278, -15, 11, -22 ],
+               [ 157, 537, 488, -670 ],
+               [ 93, 154, 143, 31 ],
+               [ 299, -367, 348, -431 ],
+               [ 363, -697, 513, 159 ],
+               [ 491, 97, 35, -3 ],
+               [ 108, 515, 468, 96 ],
+               [ 95, 522, 344, 24 ],
+               [ 31, 2673, 3805, -1901 ],
+               [ 21, 3690, 3071, 274 ],
+               [ 23, 3880, 3123, 29 ],
+               [ 25, 2413, 2063, 317 ],
+               [ 153, 864, 789, -973 ],
+               [ 303, -303, 203, -173 ],
+               [ 367, -27, 23, 5 ],
+               [ 96, 1202, 884, 78 ],
+               [ 99, 5213, 4109, -806 ],
+               [ 100, 2708, 2706, -2023 ],
+               [ 104, 3977, 3165, 263 ],
+               [ 439, -1, 3, -2 ],
+               [ 294, -432, 428, -599 ],
+               [ 109, 4635, 3723, 170 ],
+               [ 11, 472, 442, 96 ],
+               [ 405, -2281, 1312, 102 ],
+               [ 14, 3676, 3084, 195 ],
+               [ 415, -3, 6, -4 ],
+               [ 16, 3932, 3283, 103 ],
+               [ 103, 298, 277, 60 ],
+               [ 113, 4281, 3650, -98 ],
+               [ 401, -1852, 1256, -675 ],
+               [ 10, 502, 486, 111 ],
+               [ 15, 270, 271, 67 ],
+               [ 105, 3740, 4348, -2085 ],
+               [ 9, 138, 130, 29 ],
+               [ 17, 2509, 3662, -1842 ],
+               [ 101, 990, 1591, -1247 ],
+               [ 110, 1747, 3199, -2158 ],
+               [ 92, 11, 10, 2 ],
+               [ 399, -2241, 1341, 95 ],
+               [ 0, 30, 29, 6 ],
+               [ 312, -53, 31, -11 ],
+               [ 376, -1372, 880, 12 ],
+               [ 7, 63, 59, 13 ],
+               [ 300, -1264, 727, -851 ],
+               [ 364, -440, 319, 109 ],
+               [ 107, 36, 34, 6 ],
+               [ 111, 209, 196, 43 ],
+               [ 315, -672, 308, -159 ],
+               [ 443, -834, 311, -77 ],
+               [ 379, -1319, 981, -714 ],
+               [ 308, -1879, 767, -552 ],
+               [ 304, -48, 37, -25 ],
+               [ 381, -1505, 1169, -890 ],
+               [ 317, -2244, 849, -472 ],
+               [ 382, -1154, 859, -653 ],
+               [ 318, -3613, 1509, -1076 ],
+               [ 402, -1298, 1005, -765 ],
+               [ 338, -271, 111, -39 ],
+               [ 378, -1518, 960, 92 ],
+               [ 442, -3318, 1368, -581 ],
+               [ 357, -1694, 883, 17 ],
+               [ 309, -2877, 1500, -1504 ],
+               [ 409, -3565, 1834, -385 ],
+               [ 397, -2212, 1363, 41 ],
+               [ 391, -1374, 878, 154 ],
+               [ 396, -853, 611, 176 ],
+               [ 406, -3265, 1869, -310 ],
+               [ 377, -1351, 895, -384 ],
+               [ 441, -3824, 2103, -1228 ],
+               [ 398, -515, 400, 120 ],
+               [ 355, -82, 63, 16 ],
+               [ 356, -297, 239, 67 ],
+               [ 380, -1356, 828, -17 ],
+               [ 374, -1349, 868, 51 ],
+               [ 390, -1794, 1141, -60 ],
+               [ 400, -2696, 1685, -539 ],
+               [ 375, -201, 151, 63 ],
+               [ 366, -146, 111, 44 ],
+               [ 324, -2132, 1671, -1381 ],
+               [ 388, -1513, 1001, -390 ],
+               [ 337, -6, 2, 0 ],
+               [ 410, -3193, 2139, -1448 ],
+               [ 295, -737, 640, -919 ],
+               [ 365, -19, 16, 4 ],
+               [ 392, -273, 225, 62 ],
+               [ 395, -69, 59, 13 ],
+               [ 404, -9, 8, 2 ],
+               [ 24, 952, 2322, -1697 ],
+               [ 149, 500, 907, -763 ],
+               [ 114, 820, 2198, -1579 ],
+               [ 407, -1910, 1681, -1274 ],
+               [ 102, 604, 1522, -1057 ],
+               [ 27, 377, 1136, -659 ],
+               [ 106, 430, 1252, -737 ],
+               [ 497, -1, 3, -2 ],
+               [ 120, 406, 1227, -748 ],
+               [ 142, 11, 36, -18 ],
+               [ 152, 29, 85, -44 ],
+               [ 145, 299, 854, -489 ],
+               [ 151, 58, 163, -86 ],
+               [ 155, 17, 52, -27 ],
+               [ 284, -81, 144, -98 ],
+               [ 115, 228, 713, -365 ],
+               [ 28, 120, 387, -188 ],
+               [ 411, -409, 661, -434 ],
+               [ 129, 70, 228, -107 ],
+               [ 143, 158, 495, -247 ],
+               [ 146, 49, 159, -74 ],
+               [ 117, 35, 117, -54 ],
+               [ 141, 27, 94, -44 ],
+               [ 30, 13, 43, -21 ],
+               [ 138, 18, 59, -27 ],
+               [ 147, 25, 84, -40 ],
+               [ 148, 19, 65, -31 ],
+               [ 437, -183, 333, -215 ],
+               [ 310, -229, 400, -266 ],
+               [ 438, -1068, 1296, -930 ],
+               [ 440, -100, 185, -122 ],
+               [ 383, -699, 734, -553 ],
+               [ 389, -697, 670, -520 ],
+               [ 408, -987, 1056, -780 ],
+               [ 282, -47, 63, -55 ],
+               [ 301, -640, 568, -628 ],
+               [ 403, -380, 488, -350 ],
+               [ 283, -55, 79, -67 ],
+               [ 412, -133, 239, -156 ],
+               [ 297, -106, 189, -127 ],
+               [ 302, -143, 256, -170 ],
+               [ 384, -172, 276, -188 ],
+               [ 499, -13, 26, -18 ],
+               [ 116, 6, 25, -12 ],
+               [ 435, -89, 164, -108 ],
+               [ 432, -41, 75, -50 ],
+               [ 496, -80, 146, -97 ],
+               [ 296, -69, 100, -82 ],
+               [ 386, -17, 31, -22 ],
+               [ 436, -33, 61, -41 ],
+               [ 156, 280, 306, -395 ],
+               [ 161, 256, 274, -326 ],
+               [ 462, 221, 223, -295 ],
+               [ 160, 447, 425, -622 ],
+               [ 285, -131, 125, -174 ],
+               [ 286, -147, 133, -206 ],
+               [ 164, 21, 24, -25 ],
+               [ 29, 2, 8, -4 ],
+               [ 159, 24, 32, -30 ],
+               [ 272, -2, 2, -3 ],
+               [ 444, 27, 26, -34 ],
+               [ 445, 19, 24, -23 ],
+               [ 447, 11, 10, -13 ],
+               [ 448, 16, 15, -22 ],
+               [ 457, 44, 42, -62 ],
+               [ 128, 0, 2, -1 ],
+               [ 463, 71, 65, -88 ],
+               [ 449, 6, 5, -8 ],
+               [ 458, 9, 10, -12 ],
+               [ 163, 30, 35, -34 ],
+               [ 84, 6, 9, -8 ],
+               [ 446, 15, 17, -18 ],
+               [ 450, 12, 35, -19 ],
+               [ 144, 0, 1, -1 ],
+               [ 451, 2, 9, -4 ],
+               [ 452, 0, 1, 0 ],
+               [ 275, -68, 61, -94 ],
+               [ 279, -92, 83, -127 ],
+               [ 280, -40, 36, -48 ],
+               [ 281, -66, 62, -84 ],
+               [ 273, -6, 5, -10 ],
+               [ 287, -132, 140, -179 ],
+               [ 293, -122, 139, -161 ],
+               [ 298, -81, 95, -104 ],
+               [ 385, -2, 4, -2 ]
+            ],
+            "host" : "HS2\\Brows\\FemaleHeadBrowsCharGen.tri",
+            "vertices" : 502
+         }
+      ],
+      "sculptDivisor" : 10000
+   },
+   "tintInfo" : [
+      {
+         "color" : 2145312478,
+         "index" : 0,
+         "texture" : "Actors\\Character\\Character Assets\\TintMasks\\SkinTone.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 1,
+         "texture" : "HS2\\TintMasks\\femaleuppereyesocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 2,
+         "texture" : "HS2\\TintMasks\\femalelowereyesocket.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 3,
+         "texture" : "HS2\\TintMasks\\femalehead_cheeks.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 4,
+         "texture" : "HS2\\TintMasks\\femalehead_cheeks2.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 5,
+         "texture" : "HS2\\TintMasks\\femalehead_frownlines.dds"
+      },
+      {
+         "color" : 1621709906,
+         "index" : 6,
+         "texture" : "HS2\\TintMasks\\femaleheadnord_lips.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 7,
+         "texture" : "HS2\\TintMasks\\femaleheadhuman_nose.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 8,
+         "texture" : "HS2\\TintMasks\\femaleheadhuman_forehead.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 9,
+         "texture" : "HS2\\TintMasks\\femaleheadhuman_chin.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 10,
+         "texture" : "HS2\\TintMasks\\femaleheadhuman_neck.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 11,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_23.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 12,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_02.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 13,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_03.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 14,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_04.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 15,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_05.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 16,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_06.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 17,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_07.dds"
+      },
+      {
+         "color" : 2341366121,
+         "index" : 18,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_08.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 19,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_09.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 20,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_10.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 21,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_11.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 22,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_12.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 23,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_13.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 24,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_14.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 25,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_15.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 26,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_16.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 27,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_17.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 28,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_18.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 29,
+         "texture" : "HS2\\TintMasks\\femalenordeyelinerstyle_01.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 30,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_19.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 31,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_20.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 32,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_21.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 33,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_001.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 34,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_002.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 35,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_003.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 36,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_004.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 37,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_005.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 38,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_006.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 39,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_007.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 40,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_008.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 41,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_009.dds"
+      },
+      {
+         "color" : 4281401344,
+         "index" : 42,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_010.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 43,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_011.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 44,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_012.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 45,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_013.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 46,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_014.dds"
+      },
+      {
+         "color" : 5308416,
+         "index" : 47,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_015.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 48,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_016.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 49,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_017.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 50,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_018.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 51,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_019.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 52,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_020.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 53,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_021.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 54,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_022.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 55,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_023.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 56,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_024.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 57,
+         "texture" : "HS2\\MakeupOverlays\\Makeup_025.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 58,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_22.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 59,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_23.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 60,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_24.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 61,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_25.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 62,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_26.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 63,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_27.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 64,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_28.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 65,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_29.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 66,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_30.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 67,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_31.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 68,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_32.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 69,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_33.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 70,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_34.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 71,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_35.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 72,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_36.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 73,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_37.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 74,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_38.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 75,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_39.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 76,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_40.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 77,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_41.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 78,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_42.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 79,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_43.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 80,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_44.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 81,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_45.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 82,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_46.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 83,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_47.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 84,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_48.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 85,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_49.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 86,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_50.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 87,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_51.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 88,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_52.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 89,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_53.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 90,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_54.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 91,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_55.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 92,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_56.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 93,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_57.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 94,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_58.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 95,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_59.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 96,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_60.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 97,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_61.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 98,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_62.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 99,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_63.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 100,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_64.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 101,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_65.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 102,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_66.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 103,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_67.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 104,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_68.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 105,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_69.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 106,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_70.dds"
+      },
+      {
+         "color" : 16777215,
+         "index" : 107,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_71.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 108,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_72.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 109,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_73.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 110,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_74.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 111,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_75.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 112,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_76.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 113,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_77.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 114,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_78.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 115,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_79.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 116,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_80.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 117,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_81.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 118,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_82.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 119,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_83.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 120,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_84.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 121,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_85.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 122,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_86.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 123,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_87.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 124,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_88.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 125,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_89.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 126,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_90.dds"
+      },
+      {
+         "color" : 0,
+         "index" : 127,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 128,
+         "index" : 128,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 129,
+         "index" : 129,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 130,
+         "index" : 130,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 131,
+         "index" : 131,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 132,
+         "index" : 132,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 133,
+         "index" : 133,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 134,
+         "index" : 134,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 135,
+         "index" : 135,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 136,
+         "index" : 136,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 137,
+         "index" : 137,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 138,
+         "index" : 138,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 139,
+         "index" : 139,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 140,
+         "index" : 140,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 141,
+         "index" : 141,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 142,
+         "index" : 142,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 143,
+         "index" : 143,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 144,
+         "index" : 144,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 145,
+         "index" : 145,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 146,
+         "index" : 146,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 147,
+         "index" : 147,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 148,
+         "index" : 148,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 149,
+         "index" : 149,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 150,
+         "index" : 150,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 151,
+         "index" : 151,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 152,
+         "index" : 152,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 153,
+         "index" : 153,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 154,
+         "index" : 154,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 155,
+         "index" : 155,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 156,
+         "index" : 156,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 157,
+         "index" : 157,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 158,
+         "index" : 158,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 159,
+         "index" : 159,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 160,
+         "index" : 160,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 161,
+         "index" : 161,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 162,
+         "index" : 162,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 163,
+         "index" : 163,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 164,
+         "index" : 164,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 165,
+         "index" : 165,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 166,
+         "index" : 166,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 167,
+         "index" : 167,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 168,
+         "index" : 168,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 169,
+         "index" : 169,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 170,
+         "index" : 170,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 171,
+         "index" : 171,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 172,
+         "index" : 172,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 173,
+         "index" : 173,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 174,
+         "index" : 174,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 175,
+         "index" : 175,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 176,
+         "index" : 176,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 177,
+         "index" : 177,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 178,
+         "index" : 178,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 179,
+         "index" : 179,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 180,
+         "index" : 180,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 181,
+         "index" : 181,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 182,
+         "index" : 182,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 183,
+         "index" : 183,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 184,
+         "index" : 184,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 185,
+         "index" : 185,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 186,
+         "index" : 186,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 187,
+         "index" : 187,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 188,
+         "index" : 188,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 189,
+         "index" : 189,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 190,
+         "index" : 190,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 191,
+         "index" : 191,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 192,
+         "index" : 192,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 193,
+         "index" : 193,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 194,
+         "index" : 194,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 195,
+         "index" : 195,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 196,
+         "index" : 196,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 197,
+         "index" : 197,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 198,
+         "index" : 198,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 199,
+         "index" : 199,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 200,
+         "index" : 200,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 201,
+         "index" : 201,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 202,
+         "index" : 202,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 203,
+         "index" : 203,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 204,
+         "index" : 204,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 205,
+         "index" : 205,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 206,
+         "index" : 206,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 207,
+         "index" : 207,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 208,
+         "index" : 208,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 209,
+         "index" : 209,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 210,
+         "index" : 210,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 211,
+         "index" : 211,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 212,
+         "index" : 212,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 213,
+         "index" : 213,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 214,
+         "index" : 214,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 215,
+         "index" : 215,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 216,
+         "index" : 216,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 217,
+         "index" : 217,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 218,
+         "index" : 218,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 219,
+         "index" : 219,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 220,
+         "index" : 220,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 221,
+         "index" : 221,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 222,
+         "index" : 222,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 223,
+         "index" : 223,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 224,
+         "index" : 224,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 225,
+         "index" : 225,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 226,
+         "index" : 226,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 227,
+         "index" : 227,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 228,
+         "index" : 228,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 229,
+         "index" : 229,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 230,
+         "index" : 230,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 231,
+         "index" : 231,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 232,
+         "index" : 232,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 233,
+         "index" : 233,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 234,
+         "index" : 234,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 235,
+         "index" : 235,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 236,
+         "index" : 236,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 237,
+         "index" : 237,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 238,
+         "index" : 238,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 239,
+         "index" : 239,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 240,
+         "index" : 240,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 241,
+         "index" : 241,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 242,
+         "index" : 242,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 243,
+         "index" : 243,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 244,
+         "index" : 244,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 245,
+         "index" : 245,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 246,
+         "index" : 246,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 247,
+         "index" : 247,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 248,
+         "index" : 248,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 249,
+         "index" : 249,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 250,
+         "index" : 250,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 251,
+         "index" : 251,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 252,
+         "index" : 252,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 253,
+         "index" : 253,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 254,
+         "index" : 254,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      },
+      {
+         "color" : 255,
+         "index" : 255,
+         "texture" : "HS2\\Warpaints\\Warpaint_Female_91.dds"
+      }
+   ],
+   "version" : {
+      "formatVersion" : 3,
+      "runtimeVersion" : 17039392,
+      "signature" : 1163086675,
+      "skseVersion" : 33554736
+   }
+}
